@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amarachi Goodness
 - 👀 I’m interested in Web2, Web3 and Systems Programming using React.js, Next.js, Rust and Solana Blockchain
-- 🌱 I’m very proicient in HTML, CSS, SCSS, JavaScript, TypeScript and how the web works
+- 🔥 I’m very proicient in HTML, CSS, SCSS, JavaScript, TypeScript and how the web works
 - 🌱 I’m currently learning Node.js and Rust
 - 💞️ I’m looking to collaborate on Open Source projects on Node.js and Rust
 - 📫 You can reach me via amarachigoodness74@gmail.com, @dev_amarachi on twitter and @dev-amarachi on linkedin
