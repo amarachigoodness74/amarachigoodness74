@@ -1,6 +1,6 @@
-# Hi there, I'm Amarachi Goodness! 👋 🚀  
+# Hi there, I'm Amarachi Goodness! 👋   
 
-## 💻 Full-Stack JavaScript Developer | AI and Backend Developer  
+## 💻 Full-Stack JavaScript Developer | Backend Engineer | AI Enthusiast
 🔹 Passionate about building scalable, high-performance applications  
 🔹 Skilled in backend systems, AI integration, API design, and database management  
 🔹 Strong problem-solving mindset with a focus on clean and efficient code  
@@ -54,6 +54,4 @@
 💬 **LinkedIn:** [linkedin.com/in/amarachigoodness](https://linkedin.com/in/dev-amarachi)  
 📧 **Email:** amarachigoodness74@gmail.com 
 
-🚀 **Open to new opportunities in Full-Stack Development & Backend Engineering!**  
-
-
+🚀 **Open to new opportunities in Full-Stack Development, Backend Engineering, and AI-Powered Solutions!**  
